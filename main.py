@@ -1,4 +1,3 @@
-import json
 from ui.window import App
 
 
